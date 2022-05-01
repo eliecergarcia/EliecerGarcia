@@ -1,5 +1,7 @@
 Hi 👋 My name is Eliecer Garcia
+<br/>
 Software Developer
+<br/>
 I started studying automotive mechanics in high school, after a programming course that changed what I wanted to study, I started with console applications, web pages and now I feel fascinated creating mobile applications of any kind and now I just like to build things with code, so that's mostly what i do in my videos  * 🌍  I'm based in Guadalajara * ✉️  You can contact me at [absalonsbzero@gmail.com](mailto:absalonsbzero@gmail.com) * 🧠  I'm learning Flutter and Machine Learning with Python * ⚡  I have a YouTube Channel about Flutter and a podcast talking about programmers topics
 
 <a href="https://www.twitter.com/absa_garcia" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/absa_garcia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/eliecergarcia" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eliecergarcia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
